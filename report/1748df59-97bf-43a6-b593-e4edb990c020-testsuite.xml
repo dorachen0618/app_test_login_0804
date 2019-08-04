@@ -1,0 +1,560 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1564907469678" stop="1564907607751">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1564907469678" status="passed" stop="1564907513088">
+      <name>TestLogin.test_login_suc[test_login_001-13488834010-159357li-\u6211\u7684\u6536\u85cf]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907499098" status="passed" stop="1564907499315">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907499315" status="passed" stop="1564907501875">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907501875" status="passed" stop="1564907505611">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="63ce45c0-0fc1-4f9a-9595-e17e115960c0-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="38a90df6-dc66-4727-9d09-c472ec7dee46-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907505611" status="passed" stop="1564907508077">
+          <name>获取'我的收藏'文本内容</name>
+          <title>获取'我的收藏'文本内容</title>
+          <attachments>
+            <attachment source="811acc0f-a722-4921-9aa4-00ce341a4497-attachment.txt" title="获取的文本:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907508077" status="passed" stop="1564907508160">
+          <name>点击个人中心的设置按钮</name>
+          <title>点击个人中心的设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907508160" status="passed" stop="1564907513088">
+          <name>退出登录操作</name>
+          <title>退出登录操作</title>
+          <attachments>
+            <attachment source="19c0b96c-daa4-4659-a928-a891ec2db61b-attachment.txt" title="点击退出登录按钮" type="text/plain"/>
+            <attachment source="1448d6c5-4d7e-4912-b791-5138d841d2c0-attachment.txt" title="点击退出登录弹窗的确定按钮" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1564907508160" status="passed" stop="1564907511755">
+              <name>滑动屏幕</name>
+              <title>滑动屏幕</title>
+              <attachments>
+                <attachment source="fd31617c-add3-448f-84dc-77a3035d3173-attachment.txt" title="向上滑动" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907513126" status="passed" stop="1564907528145">
+      <name>TestLogin.test_login_suc[test_login_002- 13488834010-159357li-\u6211\u7684\u6536\u85cf]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907515128" status="passed" stop="1564907515299">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907515299" status="passed" stop="1564907517265">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907517266" status="passed" stop="1564907521132">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="3ced9cc9-de3b-4844-9fc3-5134ed1477c7-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="090a7a1c-0e63-4461-994a-91d85c1273f1-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907521133" status="passed" stop="1564907523058">
+          <name>获取'我的收藏'文本内容</name>
+          <title>获取'我的收藏'文本内容</title>
+          <attachments>
+            <attachment source="653a1993-0feb-4a43-9269-aa774e580489-attachment.txt" title="获取的文本:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907523058" status="passed" stop="1564907523104">
+          <name>点击个人中心的设置按钮</name>
+          <title>点击个人中心的设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907523104" status="passed" stop="1564907528144">
+          <name>退出登录操作</name>
+          <title>退出登录操作</title>
+          <attachments>
+            <attachment source="72a9d667-9f23-4fb2-ab4b-c3d06a196064-attachment.txt" title="点击退出登录按钮" type="text/plain"/>
+            <attachment source="7e6d05c5-bad6-4b2f-ac06-82cb855302fb-attachment.txt" title="点击退出登录弹窗的确定按钮" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1564907523104" status="passed" stop="1564907526766">
+              <name>滑动屏幕</name>
+              <title>滑动屏幕</title>
+              <attachments>
+                <attachment source="dc550ffc-7bec-4947-b764-5240d0924163-attachment.txt" title="向上滑动" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907528155" status="passed" stop="1564907542665">
+      <name>TestLogin.test_login_suc[test_login_003-13488834010 -159357li-\u6211\u7684\u6536\u85cf]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907530157" status="passed" stop="1564907530311">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907530311" status="passed" stop="1564907532374">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907532376" status="passed" stop="1564907535568">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="2b3ff7d0-45d7-4e06-9348-d1a46e4720d1-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="5442d43c-e2bf-4fd4-8616-4e220aaaa01a-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907535568" status="passed" stop="1564907537577">
+          <name>获取'我的收藏'文本内容</name>
+          <title>获取'我的收藏'文本内容</title>
+          <attachments>
+            <attachment source="201886f6-b129-4c7f-9f1f-33c07777ddcd-attachment.txt" title="获取的文本:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907537577" status="passed" stop="1564907537621">
+          <name>点击个人中心的设置按钮</name>
+          <title>点击个人中心的设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907537621" status="passed" stop="1564907542665">
+          <name>退出登录操作</name>
+          <title>退出登录操作</title>
+          <attachments>
+            <attachment source="00c92c4c-67f0-4a63-99c3-b0c5e73876a4-attachment.txt" title="点击退出登录按钮" type="text/plain"/>
+            <attachment source="1b48e7bd-f6ee-4695-b268-34a7dbb8a864-attachment.txt" title="点击退出登录弹窗的确定按钮" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1564907537621" status="passed" stop="1564907541288">
+              <name>滑动屏幕</name>
+              <title>滑动屏幕</title>
+              <attachments>
+                <attachment source="71439872-4643-4bcb-b314-4c70932fa8c2-attachment.txt" title="向上滑动" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907542677" status="passed" stop="1564907558233">
+      <name>TestLogin.test_login_suc[test_login_009-mlili-159357li-\u6211\u7684\u6536\u85cf]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907544679" status="passed" stop="1564907545061">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907545061" status="passed" stop="1564907546948">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907546949" status="passed" stop="1564907551083">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="842dd1f8-71ab-419c-a7fa-5eb2a35d1970-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="a0872e5c-1b3e-44a2-b7dd-279978638672-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907551083" status="passed" stop="1564907553108">
+          <name>获取'我的收藏'文本内容</name>
+          <title>获取'我的收藏'文本内容</title>
+          <attachments>
+            <attachment source="9913b54c-0482-4d3b-9ede-214d89582b0a-attachment.txt" title="获取的文本:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907553108" status="passed" stop="1564907553151">
+          <name>点击个人中心的设置按钮</name>
+          <title>点击个人中心的设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907553151" status="passed" stop="1564907558233">
+          <name>退出登录操作</name>
+          <title>退出登录操作</title>
+          <attachments>
+            <attachment source="49d603c3-738d-4fb3-96c0-e62b2eca8ceb-attachment.txt" title="点击退出登录按钮" type="text/plain"/>
+            <attachment source="e34e45e0-3012-429c-8633-603f10439a05-attachment.txt" title="点击退出登录弹窗的确定按钮" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1564907553151" status="passed" stop="1564907556849">
+              <name>滑动屏幕</name>
+              <title>滑动屏幕</title>
+              <attachments>
+                <attachment source="5c6f93e6-ec6d-4e5c-8dd4-73a9da115eb5-attachment.txt" title="向上滑动" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907558249" status="failed" stop="1564907571785">
+      <name>TestLogin.test_login_fail[test_login_005-18800001111-159357li-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728111]</name>
+      <failure>
+        <message>AssertionError: assert False</message>
+        <stack-trace>self = &lt;test_login.TestLogin object at 0x0000019256C506D8&gt;, case_num = 'test_login_005', username = '18800001111', passwd = '159357li'
+toast = '不存在', expect_data = '此用户不存在111'
+
+    @pytest.mark.parametrize("case_num, username, passwd, toast, expect_data", get_login_data().get("fail"))
+    def test_login_fail(self, case_num, username, passwd, toast, expect_data):
+        self.page_obj.get_login_page().login(username, passwd)  # 登录
+        try:
+            # 判断toast消息是否存在
+            toast_msg = self.page_obj.get_login_page().get_toast_msg(toast)
+            try:
+                # 断言toast消息
+&gt;               assert toast_msg == expect_data
+E               AssertionError: assert '此用户不存在' == '此用户不存在111'
+E                 - 此用户不存在
+E                 + 此用户不存在111
+E                 ?       +++
+
+scripts\test_login.py:76: AssertionError
+
+During handling of the above exception, another exception occurred:
+
+self = &lt;test_login.TestLogin object at 0x0000019256C506D8&gt;, case_num = 'test_login_005', username = '18800001111', passwd = '159357li'
+toast = '不存在', expect_data = '此用户不存在111'
+
+    @pytest.mark.parametrize("case_num, username, passwd, toast, expect_data", get_login_data().get("fail"))
+    def test_login_fail(self, case_num, username, passwd, toast, expect_data):
+        self.page_obj.get_login_page().login(username, passwd)  # 登录
+        try:
+            # 判断toast消息是否存在
+            toast_msg = self.page_obj.get_login_page().get_toast_msg(toast)
+            try:
+                # 断言toast消息
+                assert toast_msg == expect_data
+            except AssertionError:
+                self.page_obj.get_login_page().get_screenshot()
+&gt;               assert False
+E               assert False
+
+scripts\test_login.py:79: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907560250" status="passed" stop="1564907560415">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907560415" status="passed" stop="1564907562430">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907562431" status="passed" stop="1564907566381">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="e8630de3-b7fe-4b43-a012-5ed44ba97545-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="290e1141-c7fe-4de5-a7c4-026b731806bd-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907566381" status="passed" stop="1564907567325">
+          <name>获取toast消息</name>
+          <title>获取toast消息</title>
+          <attachments>
+            <attachment source="002419d9-59c2-4bbb-a033-7860c4f5f054-attachment.txt" title="获取到的toast消息:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907567326" status="passed" stop="1564907571560">
+          <name>截图操作</name>
+          <title>截图操作</title>
+          <attachments>
+            <attachment source="fbc3462e-bbf4-4723-83d8-e8a533406eac-attachment.png" title="./image\1564907567.3256967.png" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907571580" status="passed" stop="1564907571626">
+          <name>关闭登录页面</name>
+          <title>关闭登录页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907571803" status="passed" stop="1564907580937">
+      <name>TestLogin.test_login_fail[test_login_013-mlili-15935-\u5bc6\u7801\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907573807" status="passed" stop="1564907573990">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907573990" status="passed" stop="1564907575812">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907575814" status="passed" stop="1564907579630">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="23b64cc3-bb89-4917-af17-6f04e1ce106e-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="d3eae8b2-fe4c-4e6e-a6a9-563bcf878f2a-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907579630" status="passed" stop="1564907580835">
+          <name>获取toast消息</name>
+          <title>获取toast消息</title>
+          <attachments>
+            <attachment source="353e209e-f959-459a-8a71-3060a5d6666b-attachment.txt" title="获取到的toast消息:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907580882" status="passed" stop="1564907580936">
+          <name>关闭登录页面</name>
+          <title>关闭登录页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907580946" status="passed" stop="1564907589825">
+      <name>TestLogin.test_login_fail[test_login_014-mlili-15931593159315931-\u5bc6\u7801\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907582948" status="passed" stop="1564907583111">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907583111" status="passed" stop="1564907584889">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907584890" status="passed" stop="1564907588662">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="31fbf889-b123-4f0d-8e04-527eef20f048-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="ef339ab1-bc32-4efb-868f-976c916fec5a-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907588662" status="passed" stop="1564907589708">
+          <name>获取toast消息</name>
+          <title>获取toast消息</title>
+          <attachments>
+            <attachment source="8f8fb43c-23f1-4a63-9e42-856a59b21c64-attachment.txt" title="获取到的toast消息:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907589770" status="passed" stop="1564907589825">
+          <name>关闭登录页面</name>
+          <title>关闭登录页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907589834" status="passed" stop="1564907598683">
+      <name>TestLogin.test_login_fail[test_login_015-mlili-1593159-\u5bc6\u7801\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907591835" status="passed" stop="1564907592020">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907592020" status="passed" stop="1564907593790">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907593792" status="passed" stop="1564907597553">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="623ecad2-7263-4744-9129-5f352f594ef7-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="641142b8-14d2-4b02-a48a-5b789ff1f635-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907597553" status="passed" stop="1564907598546">
+          <name>获取toast消息</name>
+          <title>获取toast消息</title>
+          <attachments>
+            <attachment source="c6e713a2-967c-4a49-958e-ba1e71803fdb-attachment.txt" title="获取到的toast消息:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907598616" status="passed" stop="1564907598683">
+          <name>关闭登录页面</name>
+          <title>关闭登录页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1564907598696" status="passed" stop="1564907607751">
+      <name>TestLogin.test_login_fail[test_login_016-selenium-1593159-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6344-MainThread"/>
+        <label name="host" value="DESKTOP-LTFGIM2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1564907600698" status="passed" stop="1564907600862">
+          <name>点击首页的'我'按钮</name>
+          <title>点击首页的'我'按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907600863" status="passed" stop="1564907602659">
+          <name>点击'已有账号去登陆'</name>
+          <title>点击'已有账号去登陆'</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1564907602661" status="passed" stop="1564907606614">
+          <name>登录操作</name>
+          <title>登录操作</title>
+          <attachments>
+            <attachment source="84b8e029-fc94-412d-a34c-ef75105f4e4b-attachment.txt" title="输入用户名和密码" type="text/plain"/>
+            <attachment source="687243c2-3cf9-43a2-a1d6-ec135988a254-attachment.txt" title="点击登录按钮" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907606615" status="passed" stop="1564907607649">
+          <name>获取toast消息</name>
+          <title>获取toast消息</title>
+          <attachments>
+            <attachment source="1fd3f71d-7c42-46af-8bd4-e32ef07ca437-attachment.txt" title="获取到的toast消息:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1564907607688" status="passed" stop="1564907607750">
+          <name>关闭登录页面</name>
+          <title>关闭登录页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
